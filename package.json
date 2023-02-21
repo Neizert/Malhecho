@@ -1,0 +1,23 @@
+{
+  "name": "webstore",
+  "version": "1.0.0",
+  "description": "Verduleria matu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neizert/1RaEntregaMateoFalcon.git"
+  },
+  "author": "Mateo Falcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neizert/1RaEntregaMateoFalcon/issues"
+  },
+  "homepage": "https://github.com/Neizert/1RaEntregaMateoFalcon#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
